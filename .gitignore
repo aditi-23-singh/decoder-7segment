@@ -1,0 +1,9 @@
+# Vivado generated folders
+*.cache/
+*.hw/
+*.runs/
+*.ip_user_files/
+
+# Logs
+*.log
+*.jou
